@@ -11,3 +11,8 @@ All of this is in orbit around the K-dwarf Caldos.
 
 Pics: https://imgur.com/a/pLoBoc9
 
+Recommended mods: Realism Overhaul OR
+
+SMURFF
+
+Kerbal Atomics
