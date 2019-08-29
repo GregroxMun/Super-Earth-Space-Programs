@@ -16,3 +16,11 @@ Recommended mods: Realism Overhaul OR
 SMURFF
 
 Kerbal Atomics
+
+Orion drive of your choice
+
+# Required mods:
+
+Kopernicus (And ModularFlightIntegrator and ModuleManager)
+
+Kopernicus Expansions: Regional PQS (Included with Super Earth Space Programs)
