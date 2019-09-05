@@ -1,5 +1,5 @@
 # Super-Earth-Space-Programs
-Adds two playable super-earths as launch sites in a new real-scale solar system for Kerbal Space Program
+Adds two playable super-earths as launch sites in a new real-scale solar system for Kerbal Space Program.
 
 Ultragaia is a planet with twice the mass of Earth, but it is not twice as wide or twice as heavy. Its atmosphere is denser than Earth's, but not by much. Ultragaia has two moons: Duarph, which is a Ceres-sized moon in a low eccentric orbit; and Circumlune, which is very similar to Earth's Moon.
 
